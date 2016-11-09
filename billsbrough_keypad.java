@@ -1,6 +1,6 @@
 //
 //     Author: David Billsbrough
-//     E-mail: billsbrough@live.seminolestate.edu
+//     E-mail: billsbrough@live.xxxxxxxx.edu
 //      Class: COP-1000 (7802)
 // Assignment: in class
 //   Due Date: 03-November-2016
@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-public class billsbrough_keypad {
+public class readKeypad {
 
 	public static void main(String[] args) {
 		
